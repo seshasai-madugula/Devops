@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lendi Institute of Engineering & Technology</title>
+    <title>Shesasai Institute of Engineering & Technology</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -53,7 +53,7 @@
 <body>
 
 <header>
-    <h1>Lendi Institute of Engineering & Technology</h1>
+    <h1>Shesasai Institute of Engineering & Technology</h1>
     <p>An Autonomous Institution Approved by AICTE & Permanently Affiliated to JNTU Gurajada, Vizianagaram</p>
 </header>
 
@@ -76,7 +76,7 @@
 </div>
 
 <footer class="footer">
-    <p>&copy; 2024 Lendi Institute of Engineering & Technology</p>
+    <p>&copy; 2024 Shesasai Institute of Engineering & Technology</p>
 </footer>
 
 </body>
